@@ -1,0 +1,16 @@
+þÿÿÿ­###id###VisulizationRootBrowsableId###TargetIdNameDisplayName-###SearchableNonTechnicalFieldNamesOfDocument###ParentIds###ImmediateParentId###ReferenceFieldIds###SearchFilterIdsTitleLanguageVersionConstant nameEvent class###UpdatableParentIdInterfaceMember_NameInterfaceMember_DatatypeInterfaceMember_ValueInterfaceMember_CommentNetwork titleLADFBD CodeAuthorFamilyUser-defined IDInstance DBNameInFunctionalViewCommentNameInDBFullNameInDBDatatypeAddressValue###ReconstitutionDataIDAssociatedCultureFieldIdAssociatedProjectVersion!AssociatedIndexDataVersionFieldId,AssociatedTechnicalFieldNamesHashCodeFieldId-AssociatedTechnicalFieldContentVersionFieldIdIndexAtomStoreAcknowledgementModelIdEmailAddressAcknowledgedText
+ComingText	GoingTextCommonAlarmClassAcknowledgementBitAddress
+AlarmClass
+TriggerTag	AlarmTextPlcAcknowledgementBitAddressTriggerBitAddress	FunctionsAcknowledgementGroupTextInvalidAttempts	ValidDaysWarningDaysGenerationsMinNumPsswd
+ServerName
+PortNumberWindowsDomainNodeName	CycleUnit	CycleTimeNumber	ShortName
+LogoutTime	BackColor	GridColorBackFillStyleBorderBackColorBorderColor	EdgeStyleFirstGradientColorFlashing
+FocusColorFont	ForeColorHorizontalAlignmentHorizontalPictureAlignmentLayerMiddleGradientColorModePictureAutoSizingSecondGradientColorTextOffTextOnTextOrientationVerticalAlignmentVerticalPictureAlignmentAboveUpperLimitColorBelowLowerLimitColor
+BlinkColorFillColorModeFlipRotationUITypeEditorStartvalueUITypeEditorEndvalueUITypeEditorTagExpressionUITypeEditorXPosStartUITypeEditorXPosEndUITypeEditorYPosStartUITypeEditorYPosEndUITypeEditorBitPositionRangeFromToTextAdaptPicture
+AutoSizingPictureTransparentColorAlarmSourceButtonBackColorButtonBackFillStyleButtonBarStyleButtonBorderBackColorButtonBorderColorButtonEdgeStyleButtonFirstGradientColorButtonMiddleGradientColorButtonSecondGradientColorColumnTextAckGroupColumnTextAlarmStateColumnTextAlarmTextColumnTextClassNameColumnTextDateColumnTextDeviceColumnTextDiagnosableColumnTextNumberColumnTextTime
+FilterTextGridlineColorSelectionBackColorSelectionForeColorSortByTimeDirectionTableBackColorTableEvenRowBackColor	TableFontTableForeColorTableHeaderBackColorTableHeaderBackFillStyleTableHeaderBorderBackColorTableHeaderBorderColorTableHeaderEdgeStyleTableHeaderFirstGradientColorTableHeaderFontTableHeaderForeColorTableHeaderMiddleGradientColorTableHeaderSecondGradientColorViewType
+LineColor1
+LineColor2OperatableAreaColor
+VisibilityDataTypeTagAddressPanelInfoAddressAccessModeAcquisitionTriggerModeAcquisitionCycleConfirmationTypeCoding
+ConnectionPlcNameControllerTagLimitHighConstantLimitHighLowConstantLimitLowHighConstantLimitLowConstant	JobNumber
+StartValueStationNamePartnerName
